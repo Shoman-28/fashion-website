@@ -1,5 +1,8 @@
 
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 /* =======Extra css start======== */
 h1, h2, h3, h4, h5{
@@ -48,17 +51,10 @@ p{
     width: 75%;
 }
 
-/* =======manu-item-start======== */
 .custom-manu a{
     font-size: 18px;
     font-weight: 700;
 }
-
-
-/* =======manu-item-start======== */
-
-
-
 
 /* =======header-sectionend-end======== */
 
